@@ -1,10 +1,10 @@
 body{
-    background-color: rgb(80, 69, 53);
+    background-color: rgba(80, 69, 53, 0.521);
 }
             
 h1{
     text-align:center;
-    background-color: rgb(151, 94, 158);
+    background-color: rgb(102, 14, 114);
 }
 
 p{
