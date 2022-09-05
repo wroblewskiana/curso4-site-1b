@@ -1,4 +1,6 @@
-
+body{
+    background-color: blanchedalmond;
+}
             
 h1{
     text-align:center;
@@ -10,4 +12,5 @@ p{
     background-color: rgb(117, 51, 62);
 }
       
+
    
