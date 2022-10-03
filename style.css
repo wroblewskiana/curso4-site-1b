@@ -24,7 +24,13 @@ p{
 
  .beneficios{ 
        background-color: aqua;
- }
+    }
+
+
+    ul{
+        display: inline-block;
+        vertical-align: top;
+    }
 
   #imagen2 {
       width: 50px;
