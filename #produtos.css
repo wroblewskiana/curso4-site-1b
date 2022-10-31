@@ -1,6 +1,10 @@
 header{
     background: rgb(250, 155, 155);
 }
+  
+ #logo {
+      width: 250px;
+ }
 
 nav li{
     display: inline;
