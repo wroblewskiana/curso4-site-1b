@@ -1,9 +1,16 @@
 header{
-    background: rgb(250, 155, 155);
-}
+    background: rgb(250, 155, 155);}
+
+ h1{
+    display: inline;
+ }
   
  #logo {
       width: 250px;
+ }
+
+ nav{
+    display: inline-block;
  }
 
 nav li{
