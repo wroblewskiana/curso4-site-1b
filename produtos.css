@@ -1,6 +1,6 @@
-header{
+ header{
     background: rgb(250, 155, 155);
-}
+ }
 
  .caixa-nav {
     position: relative;
@@ -8,7 +8,6 @@ header{
     margin: 0 auto;
  }
  
-
  h1{
     display: inline;
  }
@@ -21,10 +20,10 @@ header{
     display: inline-block;
  }
 
-nav li{
+ nav li{
     display: inline;
     margin: 10px;
-}
+ }
 
  nav a {
     text-transform: uppercase;
