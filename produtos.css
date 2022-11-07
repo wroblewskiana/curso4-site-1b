@@ -1,16 +1,11 @@
 header{
     background: rgb(250, 155, 155);
-
-    position: relative;
-    width: 940px;
-    margin: 0 auto;
 }
 
- .caixa nav {
+ .caixa-nav {
     position: relative;
     width: 940px;
     margin: 0 auto;
-
  }
  
 
